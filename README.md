@@ -1,4 +1,4 @@
-# Taiwindcss template
+# Tailwindcss template
 
 This template should help get you started developing with Tailwind and vite
 
